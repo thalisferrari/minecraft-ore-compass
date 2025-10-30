@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "ore_compass:basic_ore_compass",
+    "ore_compass:advanced_ore_compass",
+    "ore_compass:master_ore_compass"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "item.ore_compass.basic_ore_compass": "Basic Ore Compass",
+  "item.ore_compass.advanced_ore_compass": "Advanced Ore Compass",
+  "item.ore_compass.master_ore_compass": "Master Ore Compass",
+
+  "itemGroup.ore_compass.ore_compass_tab": "Ore Compass",
+
+  "ore_compass.tier": "Tier: %s",
+  "ore_compass.range": "Range: %s blocks",
+  "ore_compass.tuned_to": "Tuned to: %s",
+  "ore_compass.detects_all": "Detects: All Tier %s ores",
+
+  "ore_compass.ore.coal": "Coal",
+  "ore_compass.ore.iron": "Iron",
+  "ore_compass.ore.copper": "Copper",
+  "ore_compass.ore.gold": "Gold",
+  "ore_compass.ore.diamond": "Diamond",
+  "ore_compass.ore.lapis": "Lapis Lazuli",
+  "ore_compass.ore.redstone": "Redstone",
+  "ore_compass.ore.emerald": "Emerald",
+  "ore_compass.ore.ancient_debris": "Ancient Debris",
+  "ore_compass.ore.nether_quartz": "Nether Quartz",
+
+  "ore_compass.message.detected": "Ore detected! Distance: %.1f blocks",
+  "ore_compass.message.no_ores": "No ores detected in range"
+}

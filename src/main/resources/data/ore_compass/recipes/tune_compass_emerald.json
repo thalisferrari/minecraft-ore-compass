@@ -1,0 +1,11 @@
+{
+  "type": "ore_compass:tune_compass",
+  "compass": {
+    "tag": "forge:tools/ore_compass"
+  },
+  "ore": {
+    "item": "minecraft:emerald"
+  },
+  "ore_type": "emerald",
+  "ore_count": 4
+}
