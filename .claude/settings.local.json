@@ -3,7 +3,8 @@
     "allow": [
       "Bash(python:*)",
       "Bash(set:*)",
-      "Bash(chcp:*)"
+      "Bash(chcp:*)",
+      "Bash(java -version:*)"
     ],
     "deny": [],
     "ask": []
